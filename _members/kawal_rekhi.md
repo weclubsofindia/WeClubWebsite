@@ -1,10 +1,12 @@
 ---
 title: Kawal Rekhi
-subtitle: Past Multiple District President and Chief Founder
-club: WE Club Unknown
+subtitle: Past Multiple District President
+club: WE District 323A2
 layout: member
 hide_hero : true
+pos : 0
 image: /assets/img/kawal_rekhi.jpg
+is_pastfounder : true
 # image_ratio : is-rounded
 # price: £1.99 + VAT
 features:

@@ -1,6 +1,5 @@
 ---
 title: Flag Salutation
-subtitle: We salute the flag
 layout: page
 hero_height : is-small
 hide_hero : true

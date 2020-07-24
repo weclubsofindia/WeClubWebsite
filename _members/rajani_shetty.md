@@ -1,9 +1,11 @@
 ---
 title: Rajjani Shetty
 subtitle: Chief Multiple District Secreatary And Founder
-club: WE Club Unknown
+club: WE District 323A2
 layout: member
 hide_hero : true
+is_pastfounder : false
+pos : 2
 image: /assets/img/rajjani_shetty.jpg
 # image_ratio : is-rounded
 # price: £1.99 + VAT

@@ -3,7 +3,7 @@ title: Sarvottam Seva
 subtitle: Panch karma or 5 point programme
 layout: page
 show_sidebar: true
-hero_image : /assets/img/sarvottam_seva.jpg
+# hero_image : /assets/img/sarvottam_seva.jpg
 hero_height : is-small
 hero_background_size : cover
 ---
@@ -13,6 +13,9 @@ The Aim of our Multiple is to guide our District and members to carry out charit
 beneficial to society and community at large. Our 5 point programme will focus on issues that can bring about a positive change
 and enhance the lives of the persons concerned and pave the way for a better tomorrow.
 
+<a href="/assets/img/sarvottam_seva.jpg" title="Sarvottam Seva">
+    <img src ="/assets/img/sarvottam_seva.jpg" />
+</a>
 # EDUCATION
 
 “Children are one third of our population and all of our future”.

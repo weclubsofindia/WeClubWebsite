@@ -1,9 +1,9 @@
 ---
-title: Current Team members
+title: Our Team
 # subtitle: Check out our range of products
 layout: members
 show_sidebar: false
 hero_height : is-small
 ---
 
-This is the list of our current members.
+<div class="title is-1"> Chief Founder</div>

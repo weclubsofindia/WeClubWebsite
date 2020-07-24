@@ -3,8 +3,8 @@ title: From the desk of Multiple District President
 subtitle: WE Saroja Mekal
 layout: page
 show_sidebar: true
-hero_image : /assets/img/saroja_mekal.jpg
-hero_height : is-large
+# hero_image : /assets/img/saroja_mekal.jpg
+hero_height : is-small
 ---
 
 Namaskar Dear We Members,
