@@ -1,0 +1,31 @@
+# - name: Pages
+#   link: /#
+
+
+- name: About Us
+  dropdown :
+      - name: From The MDP's Desk
+        link: /mdp-desk/  
+      - name : Know your Multiple District President
+        link : /weteam/knowmdp
+      - name : Current Team Members
+        link : /weteam
+      - name : Sarvottam Seva
+        link : /seva
+      - name : Pledge
+        link : /pledge
+      - name : Flag
+        link : /flag
+      - name : Anthem
+        link : /anthem
+# - name: Constitution & By Laws
+#   link: /constinew
+#   dropdown :
+#     - name : WE Constitution
+#       link: /constitution/we/objectives
+#     - name : WE Club Constitution
+#       link: /constitution/we/objectives
+- name: Glorious Stories
+  link: /blog/
+- name: Vision Supporter's
+  link: /donors/

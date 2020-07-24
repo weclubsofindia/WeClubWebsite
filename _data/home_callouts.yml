@@ -1,0 +1,14 @@
+style: is-light
+items:
+  - title: Karambeli
+    subtitle: Work done in Karambeli
+    icon: fa-copy
+    call_to_action_name: Karambeli report
+    call_to_action_link: /karambeli/
+  - title: Blog included
+    subtitle: Layouts for blog and post pages included
+    icon: fa-mail-bulk
+  - title: Works with GitHub Pages
+    subtitle: Quick and easy to get started
+    icon: fa-github
+    icon_brand: true
