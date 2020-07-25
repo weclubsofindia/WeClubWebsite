@@ -8,6 +8,10 @@ hero_height: is-small
 # hero_image : /assets/img/favicon.jpg
 ---
 
+<a href="/assets/img/sarvottam_seva.jpg" title="Sarvottam Seva">
+    <img src ="/assets/img/favicon.jpg" />
+</a>
+
  <span style="font-family:Papyrus; font-size:4em;">Woman</span> embodies power and strength, she plays multifaceted roles- she is a friend, a mother, a teacher and a mentor. She is a defining factor that can bring about any change in the society. She is a learner, an achiever, a leader. She is like water - one who can blend in any situation and come out a winner. She is the one who is empowered to imprint the best in young minds.
  
 She is the symbol of love, compassion, emotional strength and courage.
@@ -19,4 +23,3 @@ There is no exercise better for the heart than reaching down and lifting people 
 Napolean said, _“Give me good mothers, I will give you a good nation”._
 
 ## <span style="color: red;"> Come - Let's empower lives !!</span>
-

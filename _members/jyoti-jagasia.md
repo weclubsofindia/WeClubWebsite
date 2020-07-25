@@ -4,7 +4,6 @@ subtitle: Chief Multiple District Treasurer And Founder
 club: WE District 323A2
 layout: member
 is_pastfounder : false
-pos : 3
 hide_hero : true
 image: /assets/img/jyoti_jagasia.jpg
 # image_ratio : is-rounded

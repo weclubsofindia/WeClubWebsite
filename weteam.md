@@ -6,4 +6,4 @@ show_sidebar: false
 hero_height : is-small
 ---
 
-<div class="title is-1"> Chief Founder</div>
+<div class="title is-1"> Our Founders</div>

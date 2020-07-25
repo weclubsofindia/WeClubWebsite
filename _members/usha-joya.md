@@ -1,14 +1,21 @@
 ---
-title: Kawal Rekhi
+title: Usha Joya
 subtitle: Past Multiple District President
 club: WE District 323A2
 layout: member
 hide_hero : true
-image: /assets/img/kawal_rekhi.jpg
+image: /assets/img/usha_joya.jpg
 is_pastfounder : true
+# image_ratio : is-rounded
+# price: £1.99 + VAT
 features:
     - label: Chief founder.
       icon: fa-location-arrow
+    # - label: Mother of WE Divyank Jain
+    #   icon: fa-grin-stars
+    # - label: Bhuaji of Yash Jain
+    #   icon: fa-fighter-jet
+# rating: 3
 ---
 
 My Dear Saroj,

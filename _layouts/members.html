@@ -9,7 +9,7 @@ show_sidebar: false
     {{ page.content }}
   </div>
 
-  {% assign sorted_products = site.members | sort:page.sort |reverse %}
+  {% assign sorted_products = site.members | sort:page.sort %}
   {% for product in sorted_products %}
   {% if product.is_pastfounder %}
   <div class="column is-4-desktop is-6-tablet">
@@ -49,6 +49,7 @@ show_sidebar: false
 
 <div class="columns is-multiline">
 
+  {% assign sorted_products = site.members | sort:page.sort | reverse %}
   {% for product in sorted_products %}
   {% if product.is_pastfounder == false %}
 

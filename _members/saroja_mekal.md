@@ -4,7 +4,6 @@ subtitle: Chief Multiple District Treasurer And Founder
 club: WE District 323A2
 layout: member
 hide_hero : true
-pos : 1
 image: /assets/img/saroja_mekal_profile.jpg
 is_pastfounder : false
 # image_ratio : is-rounded

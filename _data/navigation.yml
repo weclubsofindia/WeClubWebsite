@@ -18,6 +18,8 @@
         link : /flag
       - name : Anthem
         link : /anthem
+      - name : Our Slogan
+        link : /slogan        
 # - name: Constitution & By Laws
 #   link: /constinew
 #   dropdown :

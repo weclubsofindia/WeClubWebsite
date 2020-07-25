@@ -65,10 +65,17 @@ highlighter: rouge
 
 collections:
   members: 
-    output: true
+    output: true    
     layout: member
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+    order:
+      - kawal_rekhi.md
+      - raxa-mehta.md
+      - usha-joya.md
+      - saroja_mekal.md
+      - rajani_shetty.md
+      - jyoti-jagasia.md
   sponsors: 
     output: true
     layout: sponsor

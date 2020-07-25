@@ -1,5 +1,5 @@
 ---
-title: Alkem Laboratories
+title: Kusum Agarwal
 # subtitle: Rs 50000
 # club: WE Club Panvel
 layout: sponsor
