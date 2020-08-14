@@ -1,6 +1,6 @@
 ---
 title: Saroja Mekal
-subtitle: Chief Multiple District Treasurer And Founder
+subtitle: Chief Multiple District President And Founder
 club: WE District 323A2
 layout: member
 hide_hero : true

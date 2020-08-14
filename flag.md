@@ -6,21 +6,24 @@ hide_hero : true
 show_sidebar: true
 ---
 
-# Flag Salutation
+<h1 id="flag-salutation">
+    <mark background-color="yellow">Flag Salutation</mark>
+</h1>
+
+
 We Salute our National Flag and take the oath of loyalty and
 solidarity to serve, to uphold its dignity and add splendor to its
-glorious past. 
-
-WE extend our services with compassion and
-humility. 
-
-We pledge our commitment to the society, to the Nation,
+glorious past. WE extend our services with compassion and
+humility. We pledge our commitment to the society, to the Nation,
 to our Planet and to humanity at large. It will be our proud privilege
 to see our National Flag unfurled and standing high among the
 community of Nations as a testimonial of our seless dedication
 and sincerity
 
-# ध्वज वंदन
+<h1 id="ध्वज वंदन">
+    <mark background-color="yellow">ध्वज वंदन</mark>
+</h1>
+
 
 <span lang="hi">
 हम अपने राष्ट्रिय ध्वज की वंदना करते हे अपनी वफादारी और एकता का प्रण लेते हे हम अपने देश की सेवा
@@ -30,7 +33,9 @@ and sincerity
 </span>
 
 
-# ध्वज वंदन
+<h1 id="ध्वज वंदन">
+    <mark background-color="yellow">ध्वज वंदन</mark>
+</h1>
 
 <span lang="hi">
 आम्ही आपल्या राष्ट्रीय ध्वजाला सलामी देतो आणि ह्या प्रती इमानदारी आणि एक जुटीची शपथ घेतो की

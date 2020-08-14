@@ -16,6 +16,7 @@ and enhance the lives of the persons concerned and pave the way for a better tom
 <a href="/assets/img/sarvottam_seva.jpg" title="Sarvottam Seva">
     <img src ="/assets/img/sarvottam_seva.jpg" />
 </a>
+
 # EDUCATION
 
 “Children are one third of our population and all of our future”.

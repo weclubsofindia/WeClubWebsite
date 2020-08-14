@@ -18,22 +18,14 @@ features:
 # rating: 3
 ---
 
-My Dear Saroj,
+प्रिय सरोज़ाज़ी,
 
-It gives me great pleasure to Congratulate you for having been selected to lead the high post of President of our Multiple District 323 of our Organisation 'The Association of WE Clubs of India' during the year 2019-20. Being the President of a New Organisation as WE Multiple District, brings Responsibilities and Challenges.
+सर्वप्रथम आपको “द असोसीएशन आफ वी क्लूबस ऑफ इिडया की बहुप्रांतीय अध्यक्षा के पद पर आसीन होने की बहुत बहुत बधाइयां । आशा ही नही अपितु विश्वास के साथ कर रही ह कि आप निसंदेह इस बहू प्रांत मे नए आयाम स्थापित करेंगी तथा महिला सशक्तिकरण का जो बीड़ा इस संस्था ने उठाया हे वो आपके कुशल नेत्रत्व मे अपनी सफलता की ऊंचाइयों को छुएगा।
 
-The challenges before us are-
+महिलाए कई क्षेत्रो मे अपना स्थान बना रही हें । आप मार्गदर्शिका सक्षम का प्रकाशन करने जा रही हें आशा हे इस माध्यम से हर सदस्या अवश्य ही लाभान्वित होगी । आज के समय मे महिलाये एक तरफ़ तो नये नये आयाम तय कर विभिन्न क्षेत्रों मे सफलता के नए शिखर पर अपना स्थान बना रही हें , वहीं कई क्षेत्रों मे तो पुरुषों को भी मिहलाओ ने पीछे छोड़ दिया हे । कुछ ऐसे ही व्यक्तित्व की धनी हें आप।
 
-How to take our Organisation to higher levels, make it more powerful, Productive, Vibrant and Expand it beyond Horizon, reach out to the maximum needy and under privileged by inviting more new members to join our Organisation.
+मेरी ढेरों शुभकामनाऔ के साथ इतना ही कहूँगी कि वर्ष भर आप आगे बढ़े, सब को साथ लेकर चलने की भावना को साकार करते हुए सफलता के उच्चतम शिखर पर पहूँचकर महिलाओं के उत्थान एव जागरूकता के लिए सकारात्मक सोच के रूप मे ये मार्गदर्शिका मील का पत्थर साबित होगी।
 
-To achieve this we will have to bring Quality both in Administration and Activities .And Quality does not happen on its own nor an accident, it's the result of high intentions, sincere efforts, intelligent directions and skill full execution. It represents the choice of many alternatives.
+हर वक्त आपके साथ
 
-The potential of every Club leader and that of our members is immense. As a dedicated and efficient leader you know how to bring out the best in each of our WE member and use it your advantage. I am confident that your leadership will provide required Motivation, Enthusiasm and Confidence not only to your cabinet officers but to all the WE members of our Organisation. Your Courage, Confidence, Concentration, Passion and a strong sense of values will take our Organisation to greater Heights .
-
-With all the best wishes to Anita Desai Jain, Manju Kochhar and the whole Editorial board and not to miss the help from M.D Micro Team (Secretaries and Treasurers) for the successful publication of M.D. Directory to be released on the occasion of M.D Installation at Goa on 3rd August, 2019
-
-Always with you in endeavours to Seize Every Opportunity to Serve and accomplish PANCH KARMA for a better Tomorrow.
-
-Sincerely,
-
-**WE Kawal Savinder Rekhi** - Multiple District President 1992-9
+उषा जोया 
