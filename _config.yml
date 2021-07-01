@@ -10,13 +10,20 @@ favicon: /assets/img/favicon.jpg
 # gh_sponsor: weclubsofindia
 #hide_share_buttons: true
 
-paginate: 5
-paginate_path: "/blog/page:num"
-
+# paginate: 5
+# paginate_path: "/blog/page:num"
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/blog/page:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-feed
   - jekyll-seo-tag
   - kramdown

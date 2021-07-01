@@ -3,7 +3,7 @@ layout: post
 author : "WE District 323 A2"
 title:  "sponsored for the treatment of a Covid Patient"
 date:   2021-06-10
-categories: editorial
+categories: editorial,a2
 hero_image: /assets/img/District323A2/competition/competition.jpg
 image: /assets/img/District323A2/competition/competition.jpg
 hero_height: is-medium

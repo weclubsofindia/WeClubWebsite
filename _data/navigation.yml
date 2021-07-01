@@ -27,7 +27,11 @@
 #       link: /constitution/we/objectives
 #     - name : WE Club Constitution
 #       link: /constitution/we/objectives
-- name: Glorious Stories
-  link: /blog/
+- name: Glorious Stories  
+  dropdown:
+  - name : District 323 A2
+    link: /a2/
+  - name : District 323 A1
+    link: /a1/
 - name: Vision Supporter's
   link: /sponsors/
