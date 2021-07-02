@@ -11,8 +11,8 @@ favicon: /assets/img/favicon.jpg
 #hide_share_buttons: true
 
 # paginate: 5
-# paginate_path: "/blog/page:num"
 pagination:
+  # paginate_path: "/blog/page:num" 
   enabled: true
   per_page: 5
   permalink: '/blog/page:num/'
