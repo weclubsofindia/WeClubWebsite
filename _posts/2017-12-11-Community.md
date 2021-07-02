@@ -3,7 +3,7 @@ layout: post
 author : "WE NPST"
 title:  "Community Service Centre at Panvel Gurudwara"
 date:   2017-12-11 
-categories: editorial
+categories: a2
 hero_image: /assets/img/activity/Books/IMG-20171211-WA0015.jpg
 image: /assets/img/activity/Books/IMG-20171211-WA0015.jpg
 hero_height: is-medium

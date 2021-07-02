@@ -3,7 +3,7 @@ layout: post
 author : "WE Shailaja Gangawane"
 title:  "moblie phone distribution for Education purpose"
 date:   2021-01-22
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/mobile/mobile.jpg
 image: /assets/img/District323A2/mobile/mobile.jpg
 hero_height: is-medium

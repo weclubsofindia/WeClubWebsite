@@ -3,7 +3,7 @@ layout: post
 author : "WE District 323 A2"
 title:  "Team kept a beautiful competition for the members"
 date:   2021-06-12
-categories: editorial,a1
+categories: a2,a1
 hero_image: /assets/img/District323A2/competition/competition.jpg
 image: /assets/img/District323A2/competition/competition.jpg
 hero_height: is-medium

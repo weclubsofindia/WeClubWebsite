@@ -3,7 +3,7 @@ layout: post
 author : "Manju Jain"
 title:  "TODO Karambeli - Water Project "
 date:   2017-11-22 
-categories: editorial
+categories: a2
 hero_image: /assets/img/karambeli/Water village/IMG-20190406-WA0044.jpg
 image: /assets/img/karambeli/Water village/IMG-20190406-WA0044.jpg
 hero_height: is-medium

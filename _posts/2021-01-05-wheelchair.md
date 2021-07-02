@@ -3,7 +3,7 @@ layout: post
 author : "WE Suchitra Sundaram"
 title:  "Donation of wheel chair "
 date:   2020-01-05
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/wheelchair/wheelchair.jpg
 image: /assets/img/District323A2/wheelchair/wheelchair.jpg
 hero_height: is-medium

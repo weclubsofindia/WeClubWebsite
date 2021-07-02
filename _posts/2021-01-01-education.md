@@ -3,7 +3,7 @@ layout: post
 author : "WE Aparna Khanolkar:WE Rashmi Shah"
 title:  "EDUCATION  MEDICAL HELP"
 date:   2021-01-01
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/operation/operation.jpg
 image: /assets/img/District323A2/operation/operation.jpg
 hero_height: is-medium

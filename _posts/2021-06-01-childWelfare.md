@@ -3,7 +3,7 @@ layout: post
 author : "WE Satyabhama Jogani"
 title:  "Child Welfare"
 date:   2021-06-01
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/childWelfare/childWelfare.jpg
 image: /assets/img/District323A2/childWelfare/childWelfare.jpg
 hero_height: is-medium

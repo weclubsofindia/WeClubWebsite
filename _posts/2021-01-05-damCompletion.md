@@ -3,7 +3,7 @@ layout: post
 author : "Presidents Shubha Raghwan:WE Manju Jain"
 title:  "COMPLETION OF DAM CONSTRCTION "
 date:   2020-01-05
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/damComplete/damComplete.jpg
 image: /assets/img/District323A2/damComplete/damComplete.jpg
 hero_height: is-medium

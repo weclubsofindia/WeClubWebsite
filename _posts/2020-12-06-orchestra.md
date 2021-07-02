@@ -3,7 +3,7 @@ layout: post
 author : " WE District 323 A2"
 title:  "Donation towards Orchestra "
 date:   2020-12-06
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/orchestra/orchestra.jpg
 image: /assets/img/District323A2/orchestra/orchestra.jpg
 hero_height: is-medium

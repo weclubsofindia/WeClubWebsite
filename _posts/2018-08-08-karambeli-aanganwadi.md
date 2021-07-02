@@ -3,7 +3,7 @@ layout: post
 author : "Manju Jain"
 title:  "TODO Karambeli - Aanganwadi "
 date:   2018-08-08
-categories: editorial
+categories: a2
 hero_image: /assets/img/karambeli/Aanganwadi/IMG_20180808_125124.jpg
 image: /assets/img/karambeli/Aanganwadi/IMG_20180808_125124.jpg
 hero_height: is-medium

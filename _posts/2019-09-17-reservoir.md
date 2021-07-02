@@ -3,7 +3,7 @@ layout: post
 author : "Someone"
 title:  "TODO - Reservoir "
 date:   2019-09-17
-categories: editorial
+categories: a2
 hero_image: /assets/img/activity/Reservoir/IMG-20190917-WA0001.jpg
 image: /assets/img/activity/Reservoir/IMG-20190917-WA0001.jpg
 hero_height: is-medium

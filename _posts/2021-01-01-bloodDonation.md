@@ -3,7 +3,7 @@ layout: post
 author : "WE Shobhna Rokade "
 title:  "BLOOD DONATION CAMPFor  THALASSAEMIA PATIENTS."
 date:   2021-01-01
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/blood/blood.jpg
 image: /assets/img/District323A2/blood/blood.jpg
 hero_height: is-medium

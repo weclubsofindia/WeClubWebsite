@@ -3,7 +3,7 @@ layout: post
 author : "WE Club of Chembur : WE club of Anushakti Royals"
 title:  "Donated towards the operation"
 date:   2021-06-10
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/operation/operation.jpg
 image: /assets/img/District323A2/operation/operation.jpg
 hero_height: is-medium

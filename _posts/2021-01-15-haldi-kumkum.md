@@ -3,7 +3,7 @@ layout: post
 author : "WE Club of Green City"
 title:  "HALDI KUMKUM"
 date:   2021-01-15
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/haldiKumkum/haldikumkum.jpg
 image: /assets/img/District323A2/haldiKumkum/haldikumkum.jpg
 hero_height: is-medium

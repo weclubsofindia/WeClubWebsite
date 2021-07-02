@@ -3,7 +3,7 @@ layout: post
 author : "WE Prabha Agarwal."
 title:  "Donated towards the kidney transplant "
 date:   2021-06-10
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/transplant/transplant.jpg
 image: /assets/img/District323A2/transplant/transplant.jpg
 hero_height: is-medium

@@ -3,7 +3,7 @@ layout: post
 author : ""
 title:  "hearing aid for a patient"
 date:   2021-01-11
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/medicalDonation/medicalDonation.jpg
 image: /assets/img/District323A2/medicalDonation/medicalDonation.jpg
 hero_height: is-medium

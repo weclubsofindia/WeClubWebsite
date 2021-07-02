@@ -3,7 +3,7 @@ layout: post
 author : "WE Sunita Tandon"
 title:  "FOOD DISTRIBUTION "
 date:   2021-01-14
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/foodDonation/foodDonation.jpg
 image: /assets/img/District323A2/foodDonation/foodDonation.jpg
 hero_height: is-medium

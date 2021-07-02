@@ -3,7 +3,7 @@ layout: post
 author : "Manju Jain"
 title:  "Fresh from the editor's desk"
 date:   2020-06-07 10:50:07
-categories: editorial
+categories: a2
 description: "On work."
 hero_image: /assets/img/favicon.jpg
 hero_height: is-medium

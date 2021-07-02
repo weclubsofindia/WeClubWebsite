@@ -3,7 +3,7 @@ layout: post
 author : "WE Manju Jain"
 title:  "DAM CONSTRCTION WORK"
 date:   2020-12-17
-categories: editorial
+categories: a2
 hero_image: /assets/img/District323A2/dam/dam.jpg
 image: /assets/img/District323A2/dam/dam.jpg
 hero_height: is-medium
