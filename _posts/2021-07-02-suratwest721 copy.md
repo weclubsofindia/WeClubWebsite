@@ -1,0 +1,16 @@
+---
+layout: post
+author : "We ClubSurat West"
+title:  "Festival and  Celebration"
+date:   2021-07-02
+categories: f2
+hero_image: /assets/img/DISTRICT323F2/SURAT/img1.jpg
+image: /assets/img/DISTRICT323F2/SURAT/img2.jpg
+hero_height: is-medium
+hero_background_size : cover
+hero_darken: true
+published: true
+---
+
+Doctor's day was celebrated. Ladies and gents doctors were felicitated. Purse and shawls were given as a token of appreciation to the doctor's.
+{% include image-gallery.html folder="/assets/img/DISTRICT323F2/SURAT" %}
