@@ -13,4 +13,4 @@ published: true
 ---
 
 GREEN CITY THANE Project: HELP THE NEEDY (21 kits of needful items and grocery donated to needy) Total Cost: 7000/-(sponsored by WE Manju Bhalotia) Beneficiaries: 21
-{% include image-gallery.html folder="assets/img/District323A2/greencitythane/greencitythane_n.jpg%}
+{% include image-gallery.html folder="assets/img/District323A2/greencitythane/" %}
