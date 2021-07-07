@@ -1,6 +1,6 @@
 ---
 layout: post
-author : "Manju Jain"
+author : "WE Manju Jain"
 title:  "Karambeli - Natural farming Sessions with Farmers "
 date:   2017-12-24 
 categories: a2
@@ -12,6 +12,6 @@ hero_darken: true
 published: true
 ---
 
-*Zero budget Natural farming* sessions were conducted for Adivasi farmers of Karambeli village . More than 80 villagers involved in farming participted, including ladies. At the end of the session all the queries were attended by the spaker. 
+*Zero budget Natural farming* sessions were conducted for Adivasi farmers of Karambeli village . More than 80 villagers involved in farming participted, including ladies. At the end of the session all the queries were attended by the speaker Sunetra Gavankar. Three sessions were arranged to train the village farmers in Natural farming with zero budget. Drum stick (Moringa) seeds were  distributed free to all. 
 
 {% include image-gallery.html folder="/assets/img/District323A2/karambeli/Farming/" %}

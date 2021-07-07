@@ -12,6 +12,6 @@ hero_darken: true
 published: true
 ---
 
-Something related to Self Defence
+Training inself defence was given to girl students of varios schools of New Panvel. A well trained National Champion Priti Parker conducted the sessions on behalf of WE CLUB OF NEW PANVEL.
 
 {% include image-gallery.html folder="/assets/img/activity/SelfDefence/" %}
