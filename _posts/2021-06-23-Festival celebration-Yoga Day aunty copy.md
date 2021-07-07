@@ -13,4 +13,5 @@ published: true
 ---
 
 "On the occasion of International Yoga Day,WE Ajmer Ashirwad, District E2.. club member WE Neelu Variyani conducted 3 days yoga camp taking all preventive measures (corona) at Vaishali Nagar".
+
 {% include image-gallery.html folder="/assets/img/DISTRICT323E2/Festival Celebration-Yoga Day236" %}

@@ -16,7 +16,7 @@ pagination:
   enabled: true
   per_page: 10
   permalink: '/blog/page:num/'
-  title: ' - page :num'
+  title: 'Glorious Stories - page :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: true

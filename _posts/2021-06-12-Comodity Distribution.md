@@ -13,4 +13,5 @@ published: true
 ---
 
 "WE Anita Desai, PDP, WE Club of Mehrangarh, District E2 Provided four ceiling fans to central jail "
+
 {% include image-gallery.html folder="/assets/img/DISTRICT323E2/Comodity Distribution126" %}
