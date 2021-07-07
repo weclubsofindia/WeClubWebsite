@@ -4,7 +4,7 @@ author : "WE Shailaja Gangawane"
 title:  "moblie phone distribution for Education purpose"
 date:   2021-01-22
 categories: a2
-hero_image: /assets/img/District323A2/2021/2021JAN/mobile/mobile.jpg
+hero_image: /assets/img/District323A2/2021/2021JAN/ADIVASIWELFARE/image.png
 image: /assets/img/District323A2/2021/2021JAN/mobile/mobile.jpg
 hero_height: is-medium
 hero_background_size : cover

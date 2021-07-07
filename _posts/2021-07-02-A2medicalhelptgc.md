@@ -13,4 +13,6 @@ published: true
 ---
 
 We Santosh Agarwal sponsored Rs 5000/- for the treatment of a needy cancer patient diagnosed with lymphoma. The sum was given during the clubs board meeting.
+
+
 {% include image-gallery.html folder="/assets/img/District323A2/2021/2021july/GREENCITYTHANEMH" %}
