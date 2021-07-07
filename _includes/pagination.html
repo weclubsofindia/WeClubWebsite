@@ -7,17 +7,17 @@
     {% if paginator.next_page %}
     <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination-next is-info">Next</a>
     {% else %}
-    <p class="pagination-next" disabled >Next</p>
+    <p class="pagination-next" disabled>Next</p>
     {% endif %}
-    <ul class="pagination-list">
-        {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-        <li><a class="pagination-link is-current">{{ page }}</a></li>
-        {% elsif page == 1 %}
-        <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | split: '/' | pop | join: '/' }}" class="pagination-link">{{ page }}</a></li>
-        {% else %}
-        <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="pagination-link">{{ page }}</a></li>
-        {% endif %}
+    {% if paginator.page_trail %}
+        <ul class="pagination-list">
+        {% for trail in paginator.page_trail %}
+            <li {% if page.url == trail.path %} class="pagination-link is-current" {% else %} class="pagination-link" {% endif %}>
+                <a href="{{ trail.path | prepend: site.baseurl }}" >{{ trail.num }}</a>
+        </li>        
         {% endfor %}
+        </ul>
+    {% endif %}
+
     </ul>
 </nav>
