@@ -4,9 +4,8 @@ author : "WE Satyabhama Jogani"
 title:  "Child Welfare"
 date:   2021-06-01
 categories: a2
-hero_image: /assets/img/District323A2/2021/2021june/childWelfare
-
-image: /assets/img/District323A2/2021/2021june/childWelfare
+hero_image: /assets/img/District323A2/2021/2021june/childWelfare/childWelfare.jpg
+image: /assets/img/District323A2/2021/2021june/childWelfare/childWelfare.jpg
 hero_height: is-medium
 hero_background_size : cover
 hero_darken: true

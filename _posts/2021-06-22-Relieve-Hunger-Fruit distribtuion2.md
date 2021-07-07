@@ -12,5 +12,6 @@ hero_darken: true
 published: true
 ---
 
-""WE Ashwini Club, District E2 distributed, food, fruits, cakes and masks to needy children. 
+WE Ashwini Club, District E2 distributed, food, fruits, cakes and masks to needy children. 
+
 {% include image-gallery.html folder="/assets/img/DISTRICT323E2/Relieve Hunger-snacks Distribution226" %}
