@@ -12,6 +12,10 @@ hero_darken: true
 published: true
 ---
 
-"On 21st Jan 2020 WE Club of Chembur distributed lunch at Tata memorial hospital goden jubilee building parel Beneficiaries - 800Total cost of the project  - 25000/-                                                                                                                                                                                                                                                                                                       "
+"On 21st Jan 2020 WE Club of Chembur distributed lunch at Tata memorial hospital goden jubilee building parel Beneficiaries - 800Total cost of the project  - 25000/
+                
+                
+                
+                
 
 {% include image-gallery.html folder="/assets/img/District323A2/2020/2020JAN/releivehungerhospital" %}
