@@ -4,8 +4,8 @@ author : "WE Club Prerna"
 title:  "Relieve hunger-Grocery Distribution"
 date:   2021-06-12
 categories: e2
-hero_image: /assets/img/District323A2/2020/medical help by vp/image(3).png
-image: /assets/img/District323A2/2020/medical help by vp/image(1).png
+hero_image : https://via.placeholder.com/800x600
+image : https://via.placeholder.com/800x600
 hero_height: is-medium
 hero_background_size : cover
 hero_darken: true

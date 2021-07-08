@@ -4,8 +4,8 @@ author : "We club of Vile Parle"
 title:  "Medical help "
 date:   2020-01-07
 categories: a2
-hero_image: /assets/img/District323A2/2020/2020JAN/VILEPARLE/hi.png
-image: /assets/img/District323A2/2020/2020JAN/VILEPARLE/image2.png
+hero_image : https://via.placeholder.com/800x600
+image : https://via.placeholder.com/800x600
 hero_height: is-medium
 hero_background_size : cover
 hero_darken: true

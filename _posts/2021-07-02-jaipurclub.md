@@ -13,4 +13,5 @@ published: true
 ---
 
 We club of Jaipur served food to 100 blind student.
+
 {% include image-gallery.html folder="/assets/img/DISTRICT323E1/JAIPURJULY2021/jaipur.jpg" %}

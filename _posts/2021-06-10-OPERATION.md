@@ -4,8 +4,8 @@ author : "WE Club of Chembur : WE club of Anushakti Royals"
 title:  "Donated towards the operation"
 date:   2021-06-10
 categories: a2
-hero_image: /assets/img/District323A2/2021/2021june/OPERATION/image.png
-image: /assets/img/District323A2/2021/2021june/OPERATION/image(2).png
+hero_image : /assets/img/District323A2/2021/2021june/OPERATION/198763373_3082098902025924_2365206169102758901_n.jpg
+image : /assets/img/District323A2/2021/2021june/OPERATION/199096192_3082098928692588_6696779293350018657_n.jpg
 hero_height: is-medium
 hero_background_size : cover
 hero_darken: true

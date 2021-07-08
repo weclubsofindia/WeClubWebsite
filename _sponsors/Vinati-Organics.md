@@ -4,7 +4,7 @@ title: Vinati Organics
 # club: WE Club Panvel
 layout: sponsor
 hide_hero : true
-# image: /assets/img/alkem_logo.png
+# image : https://via.placeholder.com/800x600
 # image_ratio : is-rounded
 # donation : Rs 100000
 # features:

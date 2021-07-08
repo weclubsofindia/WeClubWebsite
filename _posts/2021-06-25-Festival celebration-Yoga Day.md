@@ -13,4 +13,5 @@ published: true
 ---
 
 "WE CLUB of Surat West, District F2 organised YOGA DAY Exercise for During and post covid 19 by Dr. Afreen Jasani , Suryanaskar, arobic exercises  25 members attended the workshop."
+
 {% include image-gallery.html folder="/assets/img/DISTRICT323F2/RelieveHungerFruit distribtuion" %}

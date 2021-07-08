@@ -12,7 +12,6 @@ favicon: /assets/img/favicon.jpg
 
 # paginate: 5
 pagination:
-  # paginate_path: "/blog/page:num" 
   enabled: true
   per_page: 10
   permalink: '/blog/page:num/'
@@ -20,9 +19,7 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  trail: 
-    before: 2
-    after: 2 
+
 
 plugins:
   - jekyll-sitemap

@@ -4,8 +4,8 @@ author : "WE District 323 A2"
 title:  "Team kept a beautiful competition for the members"
 date:   2021-06-12
 categories: a2
-hero_image: /assets/img/District323A2/2021/2021june/summercool/image(1).png
-image: /assets/img/District323A2/2021/2021june/summercool/image(3).png
+hero_image : /assets/img/District323A2/2021/2021june/summercool/image(8).jpg
+image : /assets/img/District323A2/2021/2021june/summercool/image(5).jpg
 hero_height: is-medium
 hero_background_size : cover
 hero_darken: true
