@@ -4,7 +4,7 @@ author : "WE Club of New Panvel Steel Town"
 title:  "Community Service Centre at Panvel Gurudwara"
 date:   2018-07-17
 categories: a2
-hero_image: /assets/img/District323A2/2018/JULY2018/CommunitySC/20170718_190508.jpg
+hero_image: /ssets/img/District323A2/2018/JULY2018/CommunitySC/20170718_190508.jpga
 image: /assets/img/District323A2/2018/JULY2018/CommunitySC/20170813_122039.jpg
 hero_height: is-medium
 hero_background_size : cover
