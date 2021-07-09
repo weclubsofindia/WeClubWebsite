@@ -1,7 +1,7 @@
 ---
 layout: post
 author : "WE SWARNALATA IYER"
-title:  "Reservoir KARAMBELI"
+title:  "Reservoir Wavarle"
 date:   2019-09-17
 categories: a2
 hero_image: /assets/img/District323A2/2019/SEPTEMBER2019/Reservoir/IMG_20190916_134250.jpg
