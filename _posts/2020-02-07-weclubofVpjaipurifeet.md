@@ -4,7 +4,7 @@ author : "WE Club of Vile-Parle "
 title:  "Medical help-Jaipur Feet"
 date:   2020-02-07
 categories: a2
-hero_image :/assets/img/District323A2/2020/2020FEB/jaipurifeet/86746730_2668605776708574_5874813235638566912_n (1).jpg
+hero_image : /assets/img/District323A2/2020/2020FEB/jaipurifeet/86746730_2668605776708574_5874813235638566912_n (1).jpg
 image: /assets/img/District323A2/2020/2020FEB/jaipurifeet/86746730_2668605776708574_5874813235638566912_n.jpg
 
 hero_height: is-medium
