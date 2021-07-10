@@ -3,12 +3,15 @@ title: Know your WE Multiple District President
 subtitle: Saroja Mekal
 layout: page
 show_sidebar: true
-hero_image :  /assets/img/saroja_mekal.jpg
 hero_height : is-small
 ---
 
 WE Saroja Mekal joined Lioness Club of Chembur in 1986 and since then there is no looking back.
  The Lioness District had a glorious year during her tenure as District President in 2002-2003. 
+
+<a href="/assets/img/saroja_mekal.jpg" title="Saroja Mekal">
+    <img src ="/assets/img/saroja_mekal.jpg" />
+</a>
 
 She was instrumental in organising International Sightfirst Twinning programme with District 325 of Nepal where she personally executed the project by going with 20 other Lionesses to Kathmandu and donating 500 IOLs. 
 

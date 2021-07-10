@@ -5,7 +5,7 @@ layout: page
 callouts: home_callouts
 show_sidebar: true
 hero_height: is-small
-hero_image : /assets/img/favicon.jpg
+# hero_image : /assets/img/favicon.jpg
 ---
 
 <!-- ## The Name Of Our Association Is -->

@@ -3,7 +3,7 @@ title: Sarvottam Seva
 subtitle: Panch karma or 5 point programme
 layout: page
 show_sidebar: true
-hero_image : /assets/img/sarvottam_seva.jpg
+# hero_image : /assets/img/sarvottam_seva.jpg
 hero_height : is-small
 hero_background_size : cover
 ---
