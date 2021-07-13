@@ -5,7 +5,7 @@ title:  "Environment "
 date:   2021-07-02
 categories: a2
 hero_image: /assets/img/District323A2/2021/2021july/NEWPANVELTREEPLANTATION/IMG_20210630_160036.jpg
-image: /assets/img/District323A2/2021/2021july/NEWPANVELTREEPLANTATION/IMG-20210618-WA0033 - we clubs of india.jpg
+image: /assets/img/District323A2/2021/2021july/NEWPANVELTREEPLANTATION/Copy of Photo from Archana Dhananjay Jain.jpg
 hero_height: is-medium
 hero_background_size : cover
 hero_darken: true

@@ -4,8 +4,8 @@ author : "WE Club Prerna"
 title:  "Relieve hunger-Grocery Distribution"
 date:   2021-06-12
 categories: e2
-hero_image : https://via.placeholder.com/800x600
-image : https://via.placeholder.com/800x600
+hero_image : /assets/img/DISTRICT323E2/Junenew 2021/weclubofprennagroceryd/g1 - JAIN CLASSES.jpg
+image : /assets/img/DISTRICT323E2/Junenew 2021/weclubofprennagroceryd/g2 - JAIN CLASSES.jpg
 hero_height: is-medium
 hero_background_size : cover
 hero_darken: true
@@ -25,4 +25,4 @@ Tea 250 gm
 Sugar 1kg
 Gud 250 gm"
 
-{% include image-gallery.html folder="/assets/img/District323A2/2020/medical help by vp" %}
+{% include image-gallery.html folder="/assets/img/DISTRICT323E2/Junenew 2021/weclubofprennagrocery/" %}
